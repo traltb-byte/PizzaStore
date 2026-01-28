@@ -1,0 +1,5 @@
+{
+  "name": "PizzaHub",
+  "description": "A premium pizza ordering application with detailed menus, customization, and user authentication.",
+  "requestFramePermissions": []
+}
